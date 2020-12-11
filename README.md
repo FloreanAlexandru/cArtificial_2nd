@@ -1,2 +1,3 @@
 # cArtificial_2nd
-Using an Api, which is get from a photo
+Using FLask to call an Api with an VIN code from a car.
+We get the vin code from a photo using EasyOCR 
